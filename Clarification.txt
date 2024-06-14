@@ -1,0 +1,1 @@
+All the parameters and logics in the code are explained in ppt.
