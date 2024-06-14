@@ -1,0 +1,31 @@
+Start                     2021-01-01 00:00:00
+End                       2023-12-31 00:00:00
+Duration                   1094 days 00:00:00
+Exposure Time [%]                   51.324201
+Equity Final [$]                208768.808397
+Equity Peak [$]                 216883.722333
+Return [%]                         108.768808
+Buy & Hold Return [%]              212.373021
+Return (Ann.) [%]                   27.807166
+Volatility (Ann.) [%]               61.586131
+Sharpe Ratio                         0.451517
+Sortino Ratio                        0.936701
+Calmar Ratio                         0.627692
+Max. Drawdown [%]                  -44.300668
+Avg. Drawdown [%]                   -9.696656
+Max. Drawdown Duration      243 days 00:00:00
+Avg. Drawdown Duration       37 days 00:00:00
+# Trades                                    6
+Win Rate [%]                        66.666667
+Best Trade [%]                      51.283723
+Worst Trade [%]                     -8.008533
+Avg. Trade [%]                      13.136605
+Max. Trade Duration         218 days 00:00:00
+Avg. Trade Duration          94 days 00:00:00
+Profit Factor                         8.57483
+Expectancy [%]                      14.913104
+SQN                                  1.601395
+_strategy                            SMAcross
+_equity_curve                             ...
+_trades                      Size  EntryBa...
+dtype: object
